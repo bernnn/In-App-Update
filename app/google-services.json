@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "87753987041",
+    "project_id": "squidpay-develop",
+    "storage_bucket": "squidpay-develop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87753987041:android:e7bec99df43b22792fb8a0",
+        "android_client_info": {
+          "package_name": "com.inapp.update"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87753987041-qr8ki10sam1kbe6eefpu2t2o57hhrcnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhAeWEj7rQQn-mJ2X4L4UoQQc1H0arxYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87753987041-qr8ki10sam1kbe6eefpu2t2o57hhrcnn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87753987041-sqad8kuas9rt90cd3v2pl2ubu2s137bg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.squid.squidpay.develop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87753987041:android:321290ff9ea1dc4c2fb8a0",
+        "android_client_info": {
+          "package_name": "com.squid.squidpay_dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87753987041-qr8ki10sam1kbe6eefpu2t2o57hhrcnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhAeWEj7rQQn-mJ2X4L4UoQQc1H0arxYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87753987041-qr8ki10sam1kbe6eefpu2t2o57hhrcnn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87753987041-sqad8kuas9rt90cd3v2pl2ubu2s137bg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.squid.squidpay.develop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
